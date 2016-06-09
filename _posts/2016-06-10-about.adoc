@@ -1,0 +1,11 @@
+= about
+:hp-tags: ireland, irland, blog, about
+:hp-image: images/four-leaf-clover.png
+
+== Über mich
+
+Folgt demnächst...
+
+== About me
+
+Coming soon...
