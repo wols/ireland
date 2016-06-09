@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "wols",
-    "repositoryName": "ireland",
-    "branch": "gh-pages"
-  },
-  "theme": {
-    "name": "uno-zen"
-  }
-}
+{"meta":{"username":"wols","repositoryName":"ireland","branch":"gh-pages"},"site":{"title":"ireland@wols.org","description":"Zeit zu leben...","url":"https://wols.github.io/ireland"},"socialnetwork":{"email":"ireland@wols.org"},"theme":{"name":"uno-zen","url":"//wols.github.io/ireland/themes/uno-zen"}}
