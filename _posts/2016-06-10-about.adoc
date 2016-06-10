@@ -1,6 +1,6 @@
 = about
 :hp-tags: ireland, irland, blog, about
-:hp-image: images/20090608200036.jpg
+:hp-image: 20090608200036.jpg
 
 == Über mich
 
