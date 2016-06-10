@@ -1,4 +1,4 @@
-= about
+= Impressum
 :hp-tags: ireland, irland, blog, about
 
 == Über mich
