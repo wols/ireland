@@ -15,5 +15,3 @@ Coming soon...
 
 .Bildunterschrift 960x16:9
 image::http://dummyimage.com/960x16:9/009B48/fff.png&text=picture_2[]
-
-include::../include/piwik-analytics.html[]
