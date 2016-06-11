@@ -8,7 +8,7 @@
 Folgt demnächst...
 
 .Bildunterschrift 1
-image::http://dummyimage.com/960x16:9/009B48/fff.png&text=Picture_1[]
+image::http://dummyimage.com/480x16:9/009B48/fff.png&text=Picture_1[]
 
 == About me
 
