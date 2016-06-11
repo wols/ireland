@@ -7,6 +7,9 @@ image::http://dummyimage.com/1024x16:9/009B48/fff.png&text=IrishGreen[]
 
 Folgt demnächst...
 
+.Bildunterschrift
+image::http://dummyimage.com/512x16:9/009B48/fff.png&text=Picture[]
+
 == About me
 
 Coming soon...
