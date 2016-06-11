@@ -1,18 +1,18 @@
 = Impressum
 :hp-tags: ireland, irland, blog, about
 
-image::http://dummyimage.com/1024x16:9/009B48/fff.png&text=IrishGreen[]
+image::http://dummyimage.com/960x16:9/009B48/fff.png&text=IrishGreen[]
 
 == Über mich
 
 Folgt demnächst...
 
 .Bildunterschrift 1
-image::http://dummyimage.com/512x16:9/009B48/fff.png&text=Picture_1[]
+image::http://dummyimage.com/960x16:9/009B48/fff.png&text=Picture_1[]
 
 == About me
 
 Coming soon...
 
 .Bildunterschrift 2
-image::http://dummyimage.com/512x16:9/009B48/fff.png&text=Picture_2[]
+image::http://dummyimage.com/960x16:9/009B48/fff.png&text=Picture_2[]
