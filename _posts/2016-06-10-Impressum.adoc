@@ -1,7 +1,7 @@
 = Impressum
 :hp-tags: ireland, irland, blog, about
 
-image::http://dummyimage.com/1024x16:9/09f/fff.png[]
+image::http://dummyimage.com/1024x16:9/009B48/fff.png&text=IrishGreen[]
 
 == Über mich
 
