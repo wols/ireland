@@ -1,18 +1,17 @@
 = Impressum
 :published_at: 2016-06-10
 :hp-tags:      ireland, irland, blog, about
-:hp-image:     20090608200036.jpg
 
 == Über mich
 
 Folgt demnächst...
 
-.Bildunterschrift 1 (480x16:9)
+.Bildunterschrift 480x16:9
 image::http://dummyimage.com/480x16:9/009B48/fff.png&text=Picture_1[]
 
 == About me
 
 Coming soon...
 
-.Bildunterschrift 2 (960x16:9)
+.Bildunterschrift 960x16:9
 image::http://dummyimage.com/960x16:9/009B48/fff.png&text=Picture_2[]
