@@ -7,11 +7,11 @@
 Folgt demnächst...
 
 .Bildunterschrift 480x16:9
-image::http://dummyimage.com/480x16:9/009B48/fff.png&text=Picture_1[]
+image::http://dummyimage.com/480x16:9/009B48/fff.png&text=picture_1[]
 
 == About me
 
 Coming soon...
 
 .Bildunterschrift 960x16:9
-image::http://dummyimage.com/960x16:9/009B48/fff.png&text=Picture_2[]
+image::http://dummyimage.com/960x16:9/009B48/fff.png&text=picture_2[]
