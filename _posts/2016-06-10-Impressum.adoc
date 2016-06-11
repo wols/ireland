@@ -1,8 +1,8 @@
+
+
 = Impressum
 :hp-tags: ireland, irland, blog, about
 :lang:    de
-
-image::http://dummyimage.com/1024x16:9/009B48/fff.png&text=IrishGreen[]
 
 == Über mich
 
