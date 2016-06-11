@@ -3,8 +3,6 @@
 :hp-tags:      ireland, irland, blog, about
 :hp-image:     20090608200036.jpg
 
-image::http://dummyimage.com/960x16:9/009B48/fff.png&text=IrishGreen[]
-
 == Über mich
 
 Folgt demnächst...
