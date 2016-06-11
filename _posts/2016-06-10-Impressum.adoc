@@ -1,5 +1,6 @@
 = Impressum
-:hp-tags: ireland, irland, blog, about
+:published_at: 2016-06-10
+:hp-tags:      ireland, irland, blog, about
 
 image::http://dummyimage.com/960x16:9/009B48/fff.png&text=IrishGreen[]
 
