@@ -35,7 +35,7 @@ Achtung: Wenn Sie Ihre Cookies löschen, so hat dies zur Folge, dass auch das Op
 // Don't edit or remove next (last) lines!
 
 ++++
-<iframe style="border: 0; height: 250px; width: 600px;" src="//wolsorg.pro-ssl.de/analytics/index.php?module=CoreAdminHome&action=optOut&language=de"></iframe>
+<iframe style="border:0; width:100%;" src="//wolsorg.pro-ssl.de/analytics/index.php?module=CoreAdminHome&action=optOut&language=de"></iframe>
 ++++
 
 ++++
