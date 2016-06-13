@@ -14,7 +14,7 @@ image::/ireland/images/address.png[]
 
 === Datenschutzerklärung
 
-Ich verwende https://piwik.org[Piwik, window="_blank"] um zu sehen von wo aus meine Leser zugreifen.
+Ich verwende https://piwik.org[Piwik, window="_blank"] um auswerten zu können von wo aus meine Leser zugreifen.
 
 Die Einstellungen dieses Webanalysetools folgen https://www.datenschutzbeauftragter-info.de/fachbeitraege/piwik-datenschutzkonform-einsetzen/[der Empfehlung von www.datenschutzbeauftragter-info.de, window="_blank"].
 
