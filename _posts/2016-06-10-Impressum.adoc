@@ -20,7 +20,7 @@ Die Einstellungen dieses Webanalysetools folgen https://www.datenschutzbeauftrag
 
 === Do-not-Track
 
-Ich respektiere die https://de.wikipedia.org/wiki/Do_Not_Track_(Software)["Do-not-Track", window="_blank"]-Einstellung ihres https://de.wikipedi.org/wiki/Webbrowser[Browsers, window="_blank"].
+Ich respektiere die https://de.wikipedia.org/wiki/Do_Not_Track_(Software)["`Do-not-Track`", window="_blank"]-Einstellung ihres https://de.wikipedi.org/wiki/Webbrowser[Browsers, window="_blank"].
 
 === Anonymisierte IP-Adresse
 
@@ -29,13 +29,13 @@ TODO
 === Widerspruchsrecht
 
 Wenn Sie mit der Speicherung und Auswertung dieser Daten aus Ihrem Besuch nicht einverstanden sind, dann können Sie der Speicherung und Nutzung nachfolgend per Mausklick jederzeit widersprechen.
-In diesem Fall wird in Ihrem Browser ein sogennater "Opt-Out-Cookie" abgelegt, was zur Folge hat, dass Piwik keinerlei Sitzungsdaten erhebt.
+In diesem Fall wird in Ihrem Browser ein sogennater "`Opt-Out-Cookie`" abgelegt, was zur Folge hat, dass Piwik keinerlei Sitzungsdaten erhebt.
 Achtung: Wenn Sie Ihre Cookies löschen, so hat dies zur Folge, dass auch das Opt-Out-Cookie gelöscht wird und ggf. von Ihnen erneut aktiviert werden muss.
 
 // Don't edit or remove next (last) lines!
 
 ++++
-<iframe style="border: 0; height: 200px; width: 600px;" src="https://wolsorg.pro-ssl.de/analytics/index.php?module=CoreAdminHome&action=optOut&language=de"></iframe>
+<iframe style="border: 0; height: 200px; width: 600px;" src="//wolsorg.pro-ssl.de/analytics/index.php?module=CoreAdminHome&action=optOut&language=de"></iframe>
 ++++
 
 ++++
