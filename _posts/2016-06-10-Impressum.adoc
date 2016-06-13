@@ -1,9 +1,7 @@
 = Impressum
 :published_at: 2016-06-10
-:published_y:  2016
-:email:        ireland@wols.org
-:linkattrs:
 :hp-tags:      ireland, irland, blog, about
+:linkattrs:
 
 == Über mich
 
@@ -20,10 +18,6 @@ Coming soon...
 image::https://dummyimage.com/960x16:9/009B48/fff.png&text=picture_2[]
 
 // Don't remove next (last) lines!
-
-'''
-
-(C) {published_y} {email}
 
 ++++
 <!-- Piwik -->
