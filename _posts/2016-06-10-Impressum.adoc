@@ -2,20 +2,27 @@
 :published_at: 2016-06-10
 :hp-tags:      ireland, irland, blog, about
 :linkattrs:
+:mail:         ireland@wols.org
 
-== Über mich
+== Kontakt
 
-Folgt demnächst...
+{mail}
 
-.Bildunterschrift 480x16:9
-image::https://dummyimage.com/480x16:9/009B48/fff.png&text=picture_1[]
+== Adresse
 
-== About me
+image::address.png
 
-Coming soon...
+== Datenschutz
 
-.Bildunterschrift 960x16:9
-image::https://dummyimage.com/960x16:9/009B48/fff.png&text=picture_2[]
+Ich verwende https://piwik.org[Piwik, window="_blank"] um zu sehen von wo aus meine Leser zugreifen.
+
+=== Do-not-Track
+
+Ich respektiere die https://de.wikipedia.org/wiki/Do_Not_Track_(Software)["Do-not-Track", window="_blank"]-Einstellung ihres https://de.wikipedi.org/wiki/Webbrowser[Browsers, window="_blank"].
+
+=== Anonymisierte IP-Adresse
+
+TODO
 
 // Don't remove next (last) lines!
 
