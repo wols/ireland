@@ -10,7 +10,7 @@
 
 == Adresse
 
-image::address.png[]
+image::/ireland/images/address.png[]
 
 == Datenschutz
 
