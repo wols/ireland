@@ -1,1 +1,1 @@
-= http://wols.github.io/ireland/
+= https://wols.github.io/ireland/
