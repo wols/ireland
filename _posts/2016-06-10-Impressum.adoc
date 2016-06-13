@@ -11,8 +11,6 @@ Folgt demnächst...
 .Bildunterschrift 480x16:9
 image::https://dummyimage.com/480x16:9/009B48/fff.png&text=picture_1[]
 
-(c) {published_y} {email}
-
 == About me
 
 Coming soon...
@@ -21,6 +19,10 @@ Coming soon...
 image::https://dummyimage.com/960x16:9/009B48/fff.png&text=picture_2[]
 
 // Don't remove next (last) lines.
+
+'''
+
+(c) {published_y} {email}
 
 ++++
 <!-- Piwik -->
