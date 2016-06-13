@@ -10,7 +10,7 @@
 
 == Adresse
 
-image::address.png
+images::address.png
 
 == Datenschutz
 
