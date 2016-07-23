@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[ireland@wols.org]]></title><description><![CDATA[Zeit zu leben...]]></description><link>https://wols.github.io/ireland</link><image><url>/ireland/images/20090608200036.jpg</url><title>ireland@wols.org</title><link>https://wols.github.io/ireland</link></image><generator>RSS for Node</generator><lastBuildDate>Sat, 23 Jul 2016 22:22:54 GMT</lastBuildDate><atom:link href="https://wols.github.io/ireland/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Impressum]]></title><description><![CDATA[<div class="sect1">
+<h2 id="_kontakt">Kontakt</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><a href="mailto:ireland@wols.org">ireland@wols.org</a></p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_adresse">Adresse</h2>
+<div class="sectionbody">
+<div class="imageblock">
+<div class="content">
+<img src="/ireland/images/address.png" alt="address.png">
+</div>
+</div>
+<div class="sect2">
+<h3 id="_datenschutzerkl_rung">Datenschutzerklärung</h3>
+<div class="paragraph">
+<p>Ich verwende <a href="https://piwik.org" target="_blank">Piwik</a> um auswerten zu können von wo aus meine Leser zugreifen.</p>
+</div>
+<div class="paragraph">
+<p>Die Einstellungen dieses Webanalysetools folgen <a href="https://www.datenschutzbeauftragter-info.de/fachbeitraege/piwik-datenschutzkonform-einsetzen/" target="_blank">der Empfehlung von www.datenschutzbeauftragter-info.de</a>.</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_do_not_track">Do-not-Track</h3>
+<div class="paragraph">
+<p>Ich respektiere die <a href="https://de.wikipedia.org/wiki/Do_Not_Track_(Software)" target="_blank">&#8220;Do-not-Track&#8221;</a>-Einstellung ihres <a href="https://de.wikipedi.org/wiki/Webbrowser" target="_blank">Browsers</a>.</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_anonymisierte_ip_adresse">Anonymisierte IP-Adresse</h3>
+<div class="paragraph">
+<p>TODO</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_widerspruchsrecht">Widerspruchsrecht</h3>
+<div class="paragraph">
+<p>Wenn Sie mit der Speicherung und Auswertung dieser Daten aus Ihrem Besuch nicht einverstanden sind, dann können Sie der Speicherung und Nutzung nachfolgend per Mausklick jederzeit widersprechen.
+In diesem Fall wird in Ihrem Browser ein sogennater &#8220;Opt-Out-Cookie&#8221; abgelegt, was zur Folge hat, dass Piwik keinerlei Sitzungsdaten erhebt.
+Achtung: Wenn Sie Ihre Cookies löschen, so hat dies zur Folge, dass auch das Opt-Out-Cookie gelöscht wird und ggf. von Ihnen erneut aktiviert werden muss.</p>
+</div>
+<iframe style="border:0; width:100%; height:250px;" src="//wolsorg.pro-ssl.de/analytics/index.php?module=CoreAdminHome&action=optOut&language=de"></iframe>
+<!-- Piwik -->
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(["setDomains", ["*.wols.github.io/ireland"]]);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//wolsorg.pro-ssl.de/analytics/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', 1]);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<noscript><p><img src="//wolsorg.pro-ssl.de/analytics/piwik.php?idsite=1" style="border:0;" alt="" /></p></noscript>
+<!-- End Piwik Code -->
+</div>
+</div>
+</div>]]></description><link>https://wols.github.io/ireland/2016/06/10/Impressum.html</link><guid isPermaLink="true">https://wols.github.io/ireland/2016/06/10/Impressum.html</guid><category><![CDATA[ireland]]></category><category><![CDATA[ irland]]></category><category><![CDATA[ blog]]></category><category><![CDATA[ about]]></category><pubDate>Fri, 10 Jun 2016 00:00:00 GMT</pubDate></item></channel></rss>
