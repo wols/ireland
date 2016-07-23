@@ -1,6 +1,6 @@
 = Impressum
 :published_at: 2016-06-10
-:hp-tags:      ireland, irland, blog, about
+:hp-tags:      about, blog, ireland, irland
 :linkattrs:
 :mail:         ireland@wols.org
 
